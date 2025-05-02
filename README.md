@@ -1,4 +1,4 @@
-# System Monitoring Dashboard
+# Dashboardie
 
 A web-based dashboard for monitoring system specifications, resource usage, and temperature metrics in real-time.
 
